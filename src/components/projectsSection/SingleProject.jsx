@@ -1,8 +1,9 @@
-import { BsFillArrowUpRightCircleFill } from "react-icons/bs";
+/* eslint-disable react/prop-types */
+
 import { motion } from "framer-motion";
 import { fadeIn } from "../../framerMotion/variants";
 
-const SingleProject = ({ name, year, align, image, link }) => {
+const SingleProject = ({ name, year, align, image,}) => {
   return (
     <motion.div
       variants={fadeIn("top", 0)}

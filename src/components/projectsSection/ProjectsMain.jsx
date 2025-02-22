@@ -9,14 +9,14 @@ const projects = [
     name: "National Photography Award Competition Web Application",
     year: "Jan 2025 - Present",
     align: "left",
-    image: "../../public/images/Wildlife.png",
+    image: "/Wildlife.png",
     
   },
   {
     name: "Cinec Shuttle Tracking System",
     year: "Oct 2024 - Jan 2025",
     align: "right",
-    image: "../../public/images/shuttle.jpg",
+    image: "/shuttle.jpg",
     link: ""
   },
 
@@ -24,35 +24,35 @@ const projects = [
     name: "Automotive Services and Electrical Charging Point Finder Web Application Design",
     year: "Dec 2024",
     align: "left",
-    image: "../../public/images/Service.png",
+    image: "/Service.png",
    
   },
   {
     name: "Maternal and Child Clinic Management Web Application",
     year: "Jan 2025 - Present",
     align: "right",
-    image: "../../public/images/Clinic.png",
+    image: "/Clinic.png",
    
   },
   {
     name: "Nenolka Tuition Class Mobile App Design",
     year: "Jun 2024",
     align: "left",
-    image: "../../public/images/Class.png",
+    image: "/Class.png",
     
   },
   {
     name: "Asalanka Milk Product Distributors Web Application",
     year: "Nov 2024",
     align: "right",
-    image: "../../public/images/CBL.png",
+    image: "/CBL.png",
     link: "#",
   },
   {
     name: "Gem E-Commerce Web Design",
     year: "Nov 2024",
     align: "left",
-    image: "../../public/images/Gems.png",
+    image: "/Gems.png",
     link: "#",
   },
 ];
